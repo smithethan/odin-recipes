@@ -1,0 +1,1 @@
+Very basic HTML page to practice HTML and working with Git.
